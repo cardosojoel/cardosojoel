@@ -2,7 +2,7 @@
 
 **Gestor de Tecnologia da Informação** com 17+ anos de carreira, sendo 7 liderando a TI de uma indústria com operação nacional, com reporte direto ao CFO. Lidero ao mesmo tempo **operação de TI**, **desenvolvimento de software** e **arquitetura de sistemas e dados**, e respondo pelo resultado das três diante da diretoria.
 
-📍 Criciúma, SC · 🇧🇷 Português nativo · 🇺🇸 Inglês C1/C2 (EFSET) · disponível para o litoral de Santa Catarina
+📍 Criciúma, SC · 🇧🇷 Português nativo · 🇺🇸 Inglês C1/C2 (EFSET) · 
 
 ---
 
