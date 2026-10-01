@@ -2,9 +2,34 @@
 
 **Gestor de Tecnologia da Informação** com 17+ anos de carreira, sendo 7 liderando a TI de uma indústria com operação nacional, com reporte direto ao CFO. Lidero ao mesmo tempo **operação de TI**, **desenvolvimento de software** e **arquitetura de sistemas e dados**, e respondo pelo resultado das três diante da diretoria.
 
-📍 Criciúma, SC · 🇧🇷 Português nativo · 🇺🇸 Inglês C1/C2 (EFSET) · 
+📍 Criciúma, SC · 🇧🇷 Português nativo · 🇺🇸 Inglês C1/C2 (EFSET)
 
 ---
+
+#### ⭐ Em destaque: Sistema Interno, do zero à produção com time próprio
+
+Plataforma de dados e aplicação construída pela célula de Desenvolvimento/Dados, sob minha gestão, sobre o ERP Oracle da empresa. Ela está em produção e é usada no dia a dia pelas áreas de negócio.
+
+| Indicador | Resultado |
+|---|---|
+| Entregas por CI/CD | **246, sem interrupção do serviço** |
+| Registros sincronizados do ERP | **2,7 milhões** |
+| Consulta sobre 646 mil itens de pedido | **menos de 300 ms** |
+| Custo de licença | **zero**, com stack 100% open source |
+| Monitoramento | **24/7**, com alerta automático para o time |
+
+Módulos comerciais, assistente de IA, permissão por tela e interface em português, inglês e espanhol. A stack é ClickHouse, PostgreSQL, Airflow, Superset, Grafana e Prometheus.
+
+#### 📐 Como eu conduzo times de desenvolvimento e arquitetura
+
+Estas são as diretrizes que cobro de quem constrói software comigo, seja equipe interna ou consultoria:
+
+1. **Documentação que garante continuidade.** O sistema não pode depender de uma pessoa só para seguir funcionando.
+2. **Entrega contínua e segura.** Toda mudança passa por pipeline de CI/CD e chega à produção sem parar a operação.
+3. **Observabilidade antes do incidente.** Monitoramento e alerta automático, para o time saber do problema antes do usuário.
+4. **Decisão de arquitetura registrada.** Cada escolha relevante fica escrita, com motivo e data, para ser revista sem arqueologia.
+5. **Especificação antes do código.** O escopo é escrito e aprovado com a área, e as tarefas são rastreáveis até a entrega.
+6. **Open source quando resolve.** Licença só entra quando há ganho claro de custo, risco ou prazo.
 
 #### 🏭 Gestor de Tecnologia na Cristalcopo (desde 2019)
 
@@ -19,7 +44,7 @@ TI de **9 unidades em 5 estados**, entre plantas industriais, distribuidora e ce
 
 #### 💻 Equipes de desenvolvimento
 
-- **Sistema Interno (Cristalsingular):** plataforma de dados e aplicação feita pela célula de Desenvolvimento/Dados, sob minha gestão. Está em produção com módulos comerciais, assistente de IA e interface em três idiomas, e chegou a **246 entregas por CI/CD sem interrupção** do serviço.
+- **Sistema Interno:** plataforma de dados e aplicação construída pelo time próprio, detalhada no destaque acima.
 - **Low-code integrado ao ERP Oracle:** **170 projetos entregues,** sendo 80 pela equipe interna e 90 por consultoria externa, com a priorização e as regras de negócio definidas pela TI.
 - **Projetos com desenvolvimento por especificação:** os sites institucionais estão sendo reescritos sem CMS, a partir de especificações, com tarefas rastreáveis e decisões registradas.
 - Gestão de fornecedores de software com escopo, aceite e SLA: ERP, WMS, TMS, CRM, HCM e e-Procurement, em mais de 25 implantações.
@@ -27,8 +52,7 @@ TI de **9 unidades em 5 estados**, entre plantas industriais, distribuidora e ce
 #### 🏗️ Arquitetura de software e dados
 
 - **Paisagem de sistemas:** ERP no centro, integrado a WMS, TMS, CRM, HCM, e-Procurement e conciliação bancária. A implantação do TMS integrado a ERP e WMS tem go-live previsto para dezembro de 2026.
-- **Arquitetura de dados:** lakehouse com stack 100% open-source (ClickHouse, PostgreSQL, Airflow, Superset e Grafana), sem custo de licença. São 2,7 milhões de registros sincronizados do ERP, consultas em menos de 300 ms e evolução planejada para captura em tempo quase real (CDC).
-- **Diretrizes que cobro dos times:** documentação que garante a continuidade sem depender de uma pessoa só, observabilidade com alerta, CI/CD e decisão de arquitetura registrada.
+- **Arquitetura de dados:** lakehouse open source alimentado pelo ERP, com evolução planejada para captura em tempo quase real (CDC).
 - **Infraestrutura como base da arquitetura:** hosting bare metal (Hyper-V), alta disponibilidade de rede e DR com teste de RPO e RTO.
 
 #### 📊 Gestão e resultado
@@ -49,7 +73,7 @@ TI de **9 unidades em 5 estados**, entre plantas industriais, distribuidora e ce
 - **ISO 27001 Foundation** (EXIN) · **ISO 27001 ISMP** (IT Partner)
 - Técnico em Programação, **SATC**, 2008
 
-#### 📫 Contato
+#### 🔗 Conecte-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cardosojoel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosojoel)
 [![E-mail](https://img.shields.io/badge/E--mail-cardosojoel@icloud.com-555?style=flat&logo=icloud&logoColor=white)](mailto:cardosojoel@icloud.com)
